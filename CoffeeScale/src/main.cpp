@@ -13,6 +13,7 @@ void loop() {
 }
 
 // put function definitions here:
+// Check
 int myFunction(int x, int y) {
   return x + y;
 }
